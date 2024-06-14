@@ -61,8 +61,8 @@ plot(TukeyHSD(model1),las=2)
 ```
 
 
-A multiple comparison tests showcases a substantial difference or a lack of using each pair of data. The comparison of the middle row and the front had little to no difference to each other. This is shown by the 0 broken line, this bracket is placed where this broken line is and explains there is no difference in the data. The middle and back seats are on the right position of the graph and show a negative result, based on the bottom line placing it at approximately -11. The front and back portions were compared and showed the most significant change in numerical data. The bracket is in the negative numbers at around -13. This interference explains the most drinking was done by the back row.  
+A multiple comparison tests showcases a substantial difference or a lack of using each pair of data. The comparison of the middle row and the front had little to no difference to each other. This is shown by the (0) broken line, this bracket is placed where this broken line is and explains there is no difference in the data. The middle and back seats are on the right position of the graph and show a negative result, based on the bottom line placing it at approximately -11. The front and back portions were compared and showed the most significant change in numerical data. The bracket is in the negative numbers at around -13. This interference explains the most drinking was done by the back row.  
 
 ## Conclusions
 
-
+To discuss these results we ran a series of tests and compared the results. Through a multiple comparison test, we were able to display the number differences and that a large portion of the data agreed that the back row had the most instances of drinking compared to the front and middle seats. The categorical data was organized in numerical summaries. 
